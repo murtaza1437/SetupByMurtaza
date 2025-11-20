@@ -1,6 +1,7 @@
 # Portfolio
 # Murtaza
-### Minecraft Server Setup Specialist • Plugin Configuration • Server Optimization • Discord Server Manager
+⛏️ Minecraft Server Setup Specialist | ⚙️ Plugin Configuration | 🚀 Optimization Expert | 🛡️ Discord Manager
+
 
 ---
 
