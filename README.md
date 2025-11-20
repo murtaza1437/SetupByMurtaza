@@ -76,6 +76,19 @@ I also manage **Discord servers** as an admin/mod, ensuring clean structure and 
 - Reliable prices
 
 ---
+## 📜 Terms of Service (TOS)
+
+- **No refunds** after I start working, as server setup and configuration requires time and effort.  
+- **Correct access details must be provided** (Pterodactyl, Aternos, Apex, etc.) so I can complete the setup.  
+- I am **not responsible for issues caused by third-party plugins**, hosting problems, corrupt worlds, or changes made after delivery.  
+- **You may edit configurations**, but major changes may break the setup — additional fixes may require payment.  
+- Re-selling or claiming my setup as your own **is not allowed** without permission.  
+- Includes **free support for 72 hours** after delivery for minor fixes and adjustments.  
+- Extra features, redesigns, or major changes count as a **new order**.  
+- You agree to **clearly explain your requirements** before I start working.  
+- I reserve the right to **refuse service** if a request is abusive, unrealistic, or violates community rules.
+
+---
 
 ## 📬 Contact (preferbly Discord or instagram )
 - **Discord:** murtaza0987  
