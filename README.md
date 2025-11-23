@@ -33,7 +33,7 @@ I also manage **Discord servers** as an admin/mod, ensuring clean structure and 
 
 ### 🖥️ Additional Skills
 - Discord server setup, structuring, and moderation  
-- Basic knowledge of Java & Python (only for understanding code, not writing full plugins)
+- Basic knowledge of Java & Python (only for understanding code(can edit pre made plugins), not writing full plugins)
 
 ---
 
